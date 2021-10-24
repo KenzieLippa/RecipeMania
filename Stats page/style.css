@@ -81,7 +81,7 @@ h2{
     /*makes it a circle*/
     border-radius: 50%;
    /* border: 1px solid red;*/
-   box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+   box-shadow: 12px 12px 10px -1px rgba(0, 0, 0, 0.39),
                 -6px -6px 10px -1px rgba(255,255,255,0.7);
     margin-left: 380%;
     padding: 10px;
@@ -93,10 +93,10 @@ h2{
     height:119px;
     width:119px;
     border-radius: 50%;
-    box-shadow: inset 4px 4px 6px -1px rgba(0,0,0, 0.2),
+    box-shadow: inset 4px 4px 6px -1px rgba(0, 0, 0, 0.397),
                 inset -4px -4px 6px -1px rgba(255,255,255,0.7),
                 -0.5px -0.5px 0px rgba(255,255,255,1),
-                0.5px 0.5px 0px rgba(0,0,0,0.15),
+                0.5px 0.5px 0px rgba(0, 0, 0, 0.329),
                 0px 12px 10px -10px rgba(0,0,0,0.05);
 
                 /*first is upper left shadow
